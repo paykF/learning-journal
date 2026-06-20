@@ -5,3 +5,7 @@ Today I learned:
 - Commit
 - Push
 - Pull
+- wtf is git
+
+problems:
+- Fucking git
